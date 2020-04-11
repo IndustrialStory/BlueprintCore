@@ -3,6 +3,6 @@
   "creativeinventory": { "general": ["*"] },
   "texture": { "base": "items/blueprint" },
   "variantgroups": [
-    { "code": "type", "states": ["empty"] },
+    { "code": "type", "states": ["blank"] },
   ],
 }
