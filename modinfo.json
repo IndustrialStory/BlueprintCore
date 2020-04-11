@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "blueprintcore",
+  "name": "Blueprint Core",
+  "author": "jrddunbr & caeleron",
+  "description": "Blueprint Core Mod",
+  "version": "0.1.0",
+  "dependency": {
+    "game": ""
+  }
+}
